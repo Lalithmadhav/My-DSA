@@ -1,7 +1,7 @@
 // Fibonacci Number
 class fibonacci {
-    
-    // Using For Loop
+    /*
+    Using For Loop
     public static void main(String[] args) {
         int p1 = 1;
         int p2 = 0;
@@ -14,7 +14,7 @@ class fibonacci {
             p1 = p0;
         }
     }
-    
+    */
     /*
     Using recursion
     static int count = 2;
